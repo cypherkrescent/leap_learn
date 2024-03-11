@@ -20,5 +20,7 @@ Console.WriteLine("Calculate CGPA");
         }
         double cgpa = gradePoints * credits;
         Console.WriteLine($"\nYour CGPA is: {cgpa}");
+
+
     
 
